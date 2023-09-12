@@ -61,3 +61,9 @@ This is a TodoApp API built with NestJS and MongoDB. It provides endpoints for m
 - Method: DELETE
 - Description: Delete a specific todo by its ID.
 - Response: JSON object with a message indicating success.
+
+## Contributing
+If you would like to contribute to this project, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
